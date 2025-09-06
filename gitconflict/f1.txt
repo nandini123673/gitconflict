@@ -1,3 +1,7 @@
+aws
+hai this is aws 
+now i am trying to merge aws and main branchin the there is conflict occu
 hai this is new branch devops 
 this is from cs
 now we can merge devops and main branch
+main
